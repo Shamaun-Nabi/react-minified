@@ -11,7 +11,7 @@ function App() {
         <Anime/>
         <Anime/>
       <h3 className="text-center">
-        Minified By Shamaun Nabi with Bootstrap included
+       My app
       </h3>
       <Anime/>
       <Anime/>
