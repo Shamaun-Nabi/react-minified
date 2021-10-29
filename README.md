@@ -1,4 +1,7 @@
 # Getting Started with Create React App
+## Pre installed bootstrap
+## Pre installed Tailwind Css
+## Pre installed React Router
 
 This project was bootstrapped with react
 
@@ -11,6 +14,4 @@ For Getting the Node Modules Folder
 Runs the app in the development mode.\
 Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
 
-## No need to install bootstrap
-## No need to install Tailwind Css
-## No need to install React Router
+
