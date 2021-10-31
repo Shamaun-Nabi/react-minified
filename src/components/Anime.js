@@ -10,7 +10,7 @@ const Anime = () => {
         speed="0.5"
         loop
         autoplay
-        style={{ width: "50px", height: "50px" }}
+        style={{ width: "70px", height: "70px" }}
       ></lottie-player>
     </div>
   );
