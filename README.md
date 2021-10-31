@@ -2,6 +2,7 @@
 ## Pre installed bootstrap
 ## Pre installed Tailwind Css
 ## Pre installed React Router
+## Pre installed FontAwesone
 
 This project was bootstrapped with react
 
