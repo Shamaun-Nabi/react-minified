@@ -1,1 +1,4 @@
-Give a star on My Repo
+npm install
+npm start
+
+** Give a star If Its Helpful **
